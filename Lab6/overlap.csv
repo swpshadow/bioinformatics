@@ -1,0 +1,70 @@
+
+Overlap Results
+
+Collection(s):	CP:REACTOME
+# overlaps shown:	10
+# genesets in collections:	1554
+# genes in comparison (n):	45
+# genes in universe (N):	40071
+
+Gene Set Name	# Genes in Gene Set (K)	Description	# Genes in Overlap (k)	k/K	p-value	FDR q-value
+REACTOME_NERVOUS_SYSTEM_DEVELOPMENT	580	Nervous system development	6	0.0103	4.52E-5	7.02E-2
+REACTOME_SIGNALING_BY_ROBO_RECEPTORS	218	Signaling by ROBO receptors	4	0.0183	1.07E-4	8.28E-2
+REACTOME_EUKARYOTIC_TRANSLATION_ELONGATION	94	Eukaryotic Translation Elongation	3	0.0319	1.65E-4	8.55E-2
+REACTOME_INNATE_IMMUNE_SYSTEM	1114	Innate Immune System	7	0.0063	2.27E-4	8.83E-2
+REACTOME_ANTIGEN_PRESENTATION_FOLDING_ASSEMBLY_AND_PEPTIDE_LOADING_OF_CLASS_I_MHC	25	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	2	0.0800	3.64E-4	1.13E-1
+REACTOME_CELLULAR_RESPONSES_TO_EXTERNAL_STIMULI	613	Cellular responses to external stimuli	5	0.0082	6.08E-4	1.5E-1
+REACTOME_GPVI_MEDIATED_ACTIVATION_CASCADE	35	GPVI-mediated activation cascade	2	0.0571	7.17E-4	1.5E-1
+REACTOME_CLASS_I_MHC_MEDIATED_ANTIGEN_PROCESSING_PRESENTATION	370	Class I MHC mediated antigen processing & presentation	4	0.0108	7.9E-4	1.5E-1
+REACTOME_METABOLISM_OF_RNA	672	Metabolism of RNA	5	0.0074	9.17E-4	1.5E-1
+REACTOME_REGULATION_OF_EXPRESSION_OF_SLITS_AND_ROBOS	172	Regulation of expression of SLITs and ROBOs	3	0.0174	9.66E-4	1.5E-1
+
+
+Gene/Gene Set Overlap Matrix
+
+Entrez Gene Id	Gene Symbol	Gene Description	REACTOME_NERVOUS_SYSTEM_DEVELOPMENT	REACTOME_SIGNALING_BY_ROBO_RECEPTORS	REACTOME_EUKARYOTIC_TRANSLATION_ELONGATION	REACTOME_INNATE_IMMUNE_SYSTEM	REACTOME_ANTIGEN_PRESENTATION_FOLDING_ASSEMBLY_AND_PEPTIDE_LOADING_OF_CLASS_I_MHC	REACTOME_CELLULAR_RESPONSES_TO_EXTERNAL_STIMULI	REACTOME_GPVI_MEDIATED_ACTIVATION_CASCADE	REACTOME_CLASS_I_MHC_MEDIATED_ANTIGEN_PROCESSING_PRESENTATION	REACTOME_METABOLISM_OF_RNA	REACTOME_REGULATION_OF_EXPRESSION_OF_SLITS_AND_ROBOS
+6136	RPL12	ribosomal protein L12 [Source:HGNC Symbol;Acc:HGNC:10302]	REACTOME_NERVOUS_SYSTEM_DEVELOPMENT	REACTOME_SIGNALING_BY_ROBO_RECEPTORS	REACTOME_EUKARYOTIC_TRANSLATION_ELONGATION			REACTOME_CELLULAR_RESPONSES_TO_EXTERNAL_STIMULI			REACTOME_METABOLISM_OF_RNA	REACTOME_REGULATION_OF_EXPRESSION_OF_SLITS_AND_ROBOS
+6171	RPL41	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	REACTOME_NERVOUS_SYSTEM_DEVELOPMENT	REACTOME_SIGNALING_BY_ROBO_RECEPTORS	REACTOME_EUKARYOTIC_TRANSLATION_ELONGATION			REACTOME_CELLULAR_RESPONSES_TO_EXTERNAL_STIMULI			REACTOME_METABOLISM_OF_RNA	REACTOME_REGULATION_OF_EXPRESSION_OF_SLITS_AND_ROBOS
+23198	PSME4	proteasome activator subunit 4 [Source:HGNC Symbol;Acc:HGNC:20635]	REACTOME_NERVOUS_SYSTEM_DEVELOPMENT	REACTOME_SIGNALING_BY_ROBO_RECEPTORS		REACTOME_INNATE_IMMUNE_SYSTEM		REACTOME_CELLULAR_RESPONSES_TO_EXTERNAL_STIMULI		REACTOME_CLASS_I_MHC_MEDIATED_ANTIGEN_PROCESSING_PRESENTATION	REACTOME_METABOLISM_OF_RNA	REACTOME_REGULATION_OF_EXPRESSION_OF_SLITS_AND_ROBOS
+10486	CAP2	cyclase associated actin cytoskeleton regulatory protein 2 [Source:HGNC Symbol;Acc:HGNC:20039]	REACTOME_NERVOUS_SYSTEM_DEVELOPMENT	REACTOME_SIGNALING_BY_ROBO_RECEPTORS								
+10094	ARPC3	actin related protein 2/3 complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:706]	REACTOME_NERVOUS_SYSTEM_DEVELOPMENT			REACTOME_INNATE_IMMUNE_SYSTEM						
+388	RHOB	ras homolog family member B [Source:HGNC Symbol;Acc:HGNC:668]	REACTOME_NERVOUS_SYSTEM_DEVELOPMENT						REACTOME_GPVI_MEDIATED_ACTIVATION_CASCADE			
+1917	EEF1A2	eukaryotic translation elongation factor 1 alpha 2 [Source:HGNC Symbol;Acc:HGNC:3192]			REACTOME_EUKARYOTIC_TRANSLATION_ELONGATION							
+5602	MAPK10	mitogen-activated protein kinase 10 [Source:HGNC Symbol;Acc:HGNC:6872]				REACTOME_INNATE_IMMUNE_SYSTEM		REACTOME_CELLULAR_RESPONSES_TO_EXTERNAL_STIMULI				
+3937	LCP2	lymphocyte cytosolic protein 2 [Source:HGNC Symbol;Acc:HGNC:6529]				REACTOME_INNATE_IMMUNE_SYSTEM			REACTOME_GPVI_MEDIATED_ACTIVATION_CASCADE			
+1315	COPB1	COPI coat complex subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:2231]				REACTOME_INNATE_IMMUNE_SYSTEM						
+9641	IKBKE	inhibitor of nuclear factor kappa B kinase subunit epsilon [Source:HGNC Symbol;Acc:HGNC:14552]				REACTOME_INNATE_IMMUNE_SYSTEM						
+4179	CD46	CD46 molecule [Source:HGNC Symbol;Acc:HGNC:6953]				REACTOME_INNATE_IMMUNE_SYSTEM						
+9871	SEC24D	SEC24 homolog D, COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10706]					REACTOME_ANTIGEN_PRESENTATION_FOLDING_ASSEMBLY_AND_PEPTIDE_LOADING_OF_CLASS_I_MHC			REACTOME_CLASS_I_MHC_MEDIATED_ANTIGEN_PROCESSING_PRESENTATION		
+3134	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]					REACTOME_ANTIGEN_PRESENTATION_FOLDING_ASSEMBLY_AND_PEPTIDE_LOADING_OF_CLASS_I_MHC			REACTOME_CLASS_I_MHC_MEDIATED_ANTIGEN_PROCESSING_PRESENTATION		
+7531	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]						REACTOME_CELLULAR_RESPONSES_TO_EXTERNAL_STIMULI				
+55236	UBA6	ubiquitin like modifier activating enzyme 6 [Source:HGNC Symbol;Acc:HGNC:25581]								REACTOME_CLASS_I_MHC_MEDIATED_ANTIGEN_PROCESSING_PRESENTATION		
+6428	SRSF3	serine and arginine rich splicing factor 3 [Source:HGNC Symbol;Acc:HGNC:10785]									REACTOME_METABOLISM_OF_RNA	
+10291	SF3A1	splicing factor 3a subunit 1 [Source:HGNC Symbol;Acc:HGNC:10765]									REACTOME_METABOLISM_OF_RNA	
+4481	MSR1	macrophage scavenger receptor 1 [Source:HGNC Symbol;Acc:HGNC:7376]										
+1795	DOCK3	dedicator of cytokinesis 3 [Source:HGNC Symbol;Acc:HGNC:2989]										
+509	ATP5F1C	ATP synthase F1 subunit gamma [Source:HGNC Symbol;Acc:HGNC:833]										
+2532	ACKR1	atypical chemokine receptor 1 (Duffy blood group) [Source:HGNC Symbol;Acc:HGNC:4035]										
+9768	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]										
+5232	PGK2	phosphoglycerate kinase 2 [Source:HGNC Symbol;Acc:HGNC:8898]										
+100303728	SLC25A5-AS1	SLC25A5 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:43438]										
+10230	NBR2	neighbor of BRCA1 lncRNA 2 [Source:HGNC Symbol;Acc:HGNC:20691]										
+10241	CALCOCO2	calcium binding and coiled-coil domain 2 [Source:HGNC Symbol;Acc:HGNC:29912]										
+10982	MAPRE2	microtubule associated protein RP/EB family member 2 [Source:HGNC Symbol;Acc:HGNC:6891]										
+117531	TMC1	transmembrane channel like 1 [Source:HGNC Symbol;Acc:HGNC:16513]										
+139425	DCAF8L1	DDB1 and CUL4 associated factor 8 like 1 [Source:HGNC Symbol;Acc:HGNC:31810]										
+143570	XRRA1	X-ray radiation resistance associated 1 [Source:HGNC Symbol;Acc:HGNC:18868]										
+147727	ILF3-DT	ILF3 divergent transcript [Source:HGNC Symbol;Acc:HGNC:27115]										
+147804	TPM3P9	tropomyosin 3 pseudogene 9 [Source:HGNC Symbol;Acc:HGNC:44142]										
+158293	FAM120AOS	family with sequence similarity 120A opposite strand [Source:HGNC Symbol;Acc:HGNC:23389]										
+1618	DAZL	deleted in azoospermia like [Source:HGNC Symbol;Acc:HGNC:2685]										
+161829	EXD1	exonuclease 3'-5' domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28507]										
+1745	DLX1	distal-less homeobox 1 [Source:HGNC Symbol;Acc:HGNC:2914]										
+344148	NCKAP5	NCK associated protein 5 [Source:HGNC Symbol;Acc:HGNC:29847]										
+5090	PBX3	PBX homeobox 3 [Source:HGNC Symbol;Acc:HGNC:8634]										
+54584	GNB1L	G protein subunit beta 1 like [Source:HGNC Symbol;Acc:HGNC:4397]										
+57062	DDX24	DEAD-box helicase 24 [Source:HGNC Symbol;Acc:HGNC:13266]										
+57180	ACTR3B	actin related protein 3B [Source:HGNC Symbol;Acc:HGNC:17256]										
+84074	QRICH2	glutamine rich 2 [Source:HGNC Symbol;Acc:HGNC:25326]										
+8637	EIF4EBP3	eukaryotic translation initiation factor 4E binding protein 3 [Source:HGNC Symbol;Acc:HGNC:3290]										
+9130	FAM50A	family with sequence similarity 50 member A [Source:HGNC Symbol;Acc:HGNC:18786]										
